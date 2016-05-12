@@ -7,13 +7,13 @@ One time they observe `red, green, red, red, green`, a sequence of 5 cars sharin
 
 ![CarSequence1.png](CarSequence1.png)
 
-Another time they observe `blue, yellow, black, yellow, green, yellow, yellow, red` and identify the two-colour sequence `yellow, green, yellow, yellow`as being longer than any of the other sequences.
+Another time they observe `blue, yellow, black, yellow, green, yellow, yellow, red` and identify the two-colour sequence `yellow, green, yellow, yellow` as being longer than any of the other sequences.
 
 ![CarSequence2.png](CarSequence2.png)
 
 The team decides to commission *you* to write a piece of software to find the longest sequence of two car colours so that they can all get on with something more productive.
 
-Using a TDD aproach, complete the method in this repo:
+Using a TDD approach, complete the method in this repo:
 
     public static int CalculateLongestSequenceOfTwoCarColours(IEnumerable<string> carColours)
 
