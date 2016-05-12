@@ -5,11 +5,11 @@ The busy Burrows dev team is observing cars passing the office window. They noti
 
 One time they observe `red, green, red, red, green`, a sequence of 5 cars sharing just two colours before a `blue` car comes along and ends the run.
 
-![CarSequence1.png](CarSequence1.png)
+![CarSequence1.png](ReadmeImages/ExampleCarSequence1.png)
 
 Another time they observe `blue, yellow, black, yellow, green, yellow, yellow, red` and identify the two-colour sequence `yellow, green, yellow, yellow` as being longer than any of the other sequences.
 
-![CarSequence2.png](CarSequence2.png)
+![CarSequence2.png](ReadmeImages/ExampleCarSequence2.png)
 
 The team decides to commission *you* to write a piece of software to find the longest sequence of two car colours so that they can all get on with something more productive.
 
