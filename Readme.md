@@ -11,7 +11,7 @@ Another time they observe `blue, yellow, black, yellow, green, yellow, yellow, r
 
 ![CarSequence2.png](ReadmeImages/ExampleCarSequence2.png)
 
-The team decides to commission *you* to write a piece of software to find the longest sequence of two car colours so that they can all get on with something more productive.
+The team decides to commission *you* to write a piece of software to find the length of the longest sequence of two car colours so that they can all get on with something more productive.
 
 Using a TDD approach, complete the method in this repo:
 
