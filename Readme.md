@@ -17,4 +17,4 @@ Using a TDD approach, complete the method in this repo:
 
     public static int CalculateLongestSequenceOfTwoCarColours(IEnumerable<string> carColours)
 
-> Once you're done, please do not submit a pull request, as we want to keep your solution private, please zip and email the whole repo when you're done. And if you have Git experience, please do branch as you normally would and provide a commit history.
+> Once you're done, please do not submit a pull request, as we want to keep your solution private, please zip and email the whole repo to us. And if you have Git experience, please do branch as you normally would and provide a commit history.
